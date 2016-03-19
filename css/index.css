@@ -1,6 +1,18 @@
 body { background: white; }
 
-div img{
+div{
   height: 701px;
-  width: 100%;
+  background-image: url("../images/homepage-background-2.jpg");
+}
+.title{
+  color: #fff;
+  font-size: 90pt;
+  font-weight: 400;
+  opacity: .8;
+  text-align: center;
+  width: 50pc;
+}
+
+span{
+  font-size: 15pt;
 }
