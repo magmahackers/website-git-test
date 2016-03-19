@@ -1,1 +1,19 @@
-body { background: white; }
+body { 
+	background: white; 
+}
+
+.button-play{
+background-color: white;
+border-radius: 50%;
+font-family: arial;
+font-size: 12px;
+height: 45px;
+opacity: 0.1;
+width: 45px;
+}
+
+.text-play{
+	position: relative;
+	text-align: center;
+	vertical-align: center;
+}
