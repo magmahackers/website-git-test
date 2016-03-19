@@ -1,6 +1,32 @@
 body { background: white; }
 
-div img{
+div{
+  background-image: url("../images/homepage-background-2.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
   height: 701px;
   width: 100%;
+}
+
+
+.title{
+  color: #fff;
+  display: inline-block;
+  font-size: 70pt;
+  font-weight: 400;
+  height: auto;
+  left: 10%;
+  letter-spacing: .3em;
+  margin: 0;
+  opacity: .8;
+  position: absolute;
+  text-align: center;
+  top: 30%;
+  width: 50pc;
+}
+
+span{
+  font-size: 13px;
+  letter-spacing: normal;
+  width: 90pt;
 }
