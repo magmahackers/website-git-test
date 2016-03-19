@@ -1,18 +1,31 @@
 body { background: white; }
 
 div{
-  height: 701px;
   background-image: url("../images/homepage-background-2.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 700px;
+  position: relative;
+  width: 1250px;
 }
+
+
 .title{
   color: #fff;
   font-size: 90pt;
   font-weight: 400;
+  height: auto;
+  left: 30%;
+  letter-spacing: .3em;
+  margin: 0;
   opacity: .8;
+  position: absolute;
   text-align: center;
+  top: 30%;
   width: 50pc;
 }
 
 span{
   font-size: 15pt;
+  letter-spacing: normal;
 }
