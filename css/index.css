@@ -4,3 +4,11 @@ div img{
   height: 701px;
   width: 100%;
 }
+
+a{
+
+}
+
+.barraSeparada{
+	border-bottom: 1px solid; padding-bottom: .6em;
+}
