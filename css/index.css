@@ -35,7 +35,7 @@ body {
 	margin-top:-150px;
 	top:50%; left:50%;
 	width:300px;
-	-webkit-box-reflect: below  -7px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(10%, transparent), to(rgba(255,255,255,0.2)));
+	-webkit-box-reflect: below -7px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(10%, transparent), to(rgba(255,255,255,0.2)));
 }
 #foot {
 	bottom:0;
