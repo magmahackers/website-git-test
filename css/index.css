@@ -12,6 +12,7 @@ ul{
 
 li{
 	display: inline;
+	/*para dejar 20 pixeles de margen a la derecha */
 	margin: 0 20px 0 0;
 }
 
