@@ -49,3 +49,29 @@ ul{
     padding-bottom: .6em;
     text-decoration: none;
 }
+
+.button-white {
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    color: white;
+    cursor: pointer;
+    /*display: inline-block;*/
+    font-family: din-condensed-web,DINCondensed-Bold,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 350;
+    height: 75pt;
+    letter-spacing: .1em;
+    line-height: 75pt;
+    margin-top: 30%;
+    margin-left: 45%;
+    margin-right:45%;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    -webkit-transition: border-color .2s linear,color .2s linear!important;
+    -o-transition: border-color .2s linear,color .2s linear!important;
+    transition: border-color .2s linear,color .2s linear!important;
+    width: 75pt;
+}
