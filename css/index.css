@@ -34,6 +34,7 @@ span{
 ul{
  	list-style-type: none;
  	text-align: center;
+  margin-top: -5%;
  }
 
  li{
@@ -45,7 +46,7 @@ ul{
  a {
      border-bottom: 2px solid #f0f0f0;
     border-bottom: 3px solid #C0C0C0;
-    color: #888;
+    color: #fff;
     padding-bottom: .6em;
     text-decoration: none;
 }
@@ -63,7 +64,7 @@ ul{
     height: 75pt;
     letter-spacing: .1em;
     line-height: 75pt;
-    margin-top: 30%;
+    margin-top: 35%;
     margin-left: 45%;
     margin-right:45%;
     position: absolute;
