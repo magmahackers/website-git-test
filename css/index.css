@@ -31,3 +31,21 @@ span{
   letter-spacing: normal;
   width: 90pt;
 }
+ul{
+ 	list-style-type: none;
+ 	text-align: center;
+ }
+
+ li{
+ 	display: inline;
+ 	/*para dejar 20 pixeles de margen a la derecha */
+ 	margin: 0 20px 0 0;
+ }
+
+ a {
+     border-bottom: 2px solid #f0f0f0;
+    border-bottom: 3px solid #C0C0C0;
+    color: #888;
+    padding-bottom: .6em;
+    text-decoration: none;
+}
